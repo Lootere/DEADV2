@@ -23,7 +23,7 @@
 
 🌐 URL Shortener Integration
 
-📂 Clone Feature (multi-database support)
+📂 Clone Feature
 
 ⚡ High-Speed File Indexing
 
